@@ -1,0 +1,12 @@
+:root {
+  --royal-purple: #7851a9;
+  --royal-gray: #e7e3e9;
+  background-color: var(--royal-purple);
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  margin: 32px;
+  font-size: 16px;
+}
